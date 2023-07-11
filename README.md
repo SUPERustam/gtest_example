@@ -1,6 +1,6 @@
 # GTest Example for Ubuntu
 - `install_setup_gtest.sh` - install, compile and setup gtest (run once on computer)
-- `sample1.h` and `sample1.cpp` source files which needed to test (`Factorial(int)` and IsPrime(int)` functions)
+- `sample1.h` and `sample1.cpp` source files which needed to test (`Factorial(int)` and `IsPrime(int)` functions)
 - `tests/` - tests for source files.
 
 ### Run tests
